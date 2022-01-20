@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/450086127.svg)](https://zenodo.org/badge/latestdoi/450086127)
 # getComGRF
 Calculate Center of Mass position from Ground Reaction Forces
 
