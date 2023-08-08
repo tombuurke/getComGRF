@@ -4,7 +4,7 @@ Calculate Center of Mass position from Ground Reaction Forces
 
 **Inputs**
 
-GRF    - Ground reaction force (m) from single forceplate.
+GRF    - Ground reaction force (N) from single forceplate.
            NB: In case of multiple forceplates e.g. split-belt treadmill,
            combine the 2 GRFs to a single GRF, for more info see Kwon3D:
            http://www.kwon3d.com/theory/grf/multi.html
